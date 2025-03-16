@@ -1,0 +1,66 @@
+[33m404b62e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Initial commit - uploading full project
+[33m010d368[m[33m ([m[1;31morigin/main[m[33m)[m Initial commit - uploading full project
+[33mce047e2[m refactor Skills and SkillCard components; update skill colors and improve SkillCard background for better visibility
+[33madac76a[m refactor Skills component; remove unused import for cleaner code
+[33m2d94a2e[m refactor Skills component; remove unused icon imports for cleaner code
+[33m46be328[m refactor Skills component; remove unused skills and update URLs for better accuracy
+[33m7957b25[m refactor Skills and SkillCard components; update layout to grid for better responsiveness and enhance styling
+[33m8a63517[m refactor Skills component; adjust gap in flexbox layout for improved spacing
+[33md0f44dd[m refactor Skills and SkillCard components; enhance layout with flexbox for responsive design and improve styling
+[33m04813eb[m refactor About component; adjust padding and font sizes for improved readability
+[33m17d1493[m refactor Skills and SkillCard components; add URL props for skills and update SkillCard to link to external resources
+[33m33298dc[m refactor Skills component; adjust section padding for improved layout
+[33mc4ec647[m refactor Skills component; enhance layout with SkillCard, improve styling, and add new skills
+[33m0c3dad2[m update image URL for PW certification
+[33m6f946ef[m refactor EducationCard and ExperienceCard components; adjust gradient overlay opacity, update padding for consistency, and refine timeline connector positioning
+[33m104ec06[m refactor Education and EducationCard components; enhance layout and styling, add timeline connector, and improve accessibility with additional props
+[33mcf60a17[m refactor Experience component; remove unnecessary background classes for improved styling consistency
+[33mfc6d2ca[m refactor ExperienceCard component; adjust padding and update text styles for improved layout and readability
+[33m805c8fa[m refactor ExperienceCard component; adjust positioning and size of timeline dot for improved layout
+[33me576025[m refactor Experience component; replace Timeline with ExperienceCard for improved layout and user experience, and enhance descriptions with skill sets
+[33mc8599a6[m refactor Experience and BlogCard components; improve description wording and enhance styling for better user experience
+[33m2325ea3[m refactor Skills component; enhance styling and hover effects for improved visual appeal
+[33mdb3f734[m docs: update directory structure section in README and correct email address
+[33m752b90f[m docs: add directory structure section to README for better project navigation
+[33m239db80[m refactor Badges component; add unique IDs for badges and improve key assignment in map function
+[33m0d97e60[m refactor GitHub component; improve type safety, enhance default values, and adjust styling for better readability
+[33m85998f5[m fix: update email address in README for correct contact information
+[33m19ef4bb[m refactor Skills component; improve code formatting and enhance hover effects for better user experience
+[33m1458b2e[m refactor Footer component; adjust icon sizes for improved visual consistency
+[33mef08ac1[m refactor About and Footer components; enhance styling and update footer links for improved navigation
+[33m5433014[m refactor About component; update content and structure, replace icons, and enhance descriptions
+[33mdf4ec0d[m refactor About component; update content structure and enhance personal introduction
+[33m528bcd9[m adjust Badges component layout; modify gap size for improved responsiveness
+[33m9954fa5[m refactor About component; move AboutCard to ui directory and remove Stats component
+[33m0e2f2a2[m update README and add LICENSE file; enhance project description and clarify features
+[33m03b99af[m add GitHub profile widget to display user information and stats alongside repositories
+[33mbb3dee9[m enhance Navbar link styling with hover scale effect for improved interactivity
+[33m5c4e35e[m refactor Navbar component to track active section using IntersectionObserver and enhance link highlighting with animation
+[33mc329632[m add Badges and Blogs components; update App and Navbar for new sections
+[33m86ce6cb[m enhance Hero component with animated wave effect for greeting message
+[33m7023951[m enhance Navbar styling by updating border radius for a more modern look
+[33me9796ca[m fix: update favicon path and refactor ActionButtons for improved accessibility and styling
+[33m0fc85b4[m refactor SVG paths in loading component for improved clarity and consistency
+[33m42b9b99[m enhance Navbar link for better dark mode support
+[33m4f655d5[m enhance Navbar link hover effects and adjust ThemeToggle icon size for better responsiveness
+[33m775d410[m enhance Navbar link styling for improved dark mode support
+[33m21cf8f7[m refactor Navbar component for improved styling and layout consistency
+[33m7b630d4[m refactor GitHub component to use typed data and improve Navbar background styling
+[33md7adb6f[m adjust blockSize in GitHubCalendar for improved layout consistency
+[33m838b351[m enhance GitHub component styling with card-like container and adjusted block size
+[33m5bed7cf[m disable custom cursor for touch devices
+[33me4be9bc[m disable custom cursor on touch devices for improved usability
+[33m317f1f2[m add CustomCursor component for enhanced mouse tracking
+[33m2851567[m replace Send icon with LuMessageSquareShare in ContactForm component
+[33mc6dbcbf[m refactor Navbar component to add onClick
+[33mb7bbb18[m refactor Skills component to adjust padding and maintain consistent styling
+[33m3aba3ba[m update GitHub component color scheme for improved contrast
+[33mf181b0d[m add carousel functionality to Certifications component using react-slick
+[33mcef87bc[m update Leetcode component iframe source to include border and radius parameters
+[33md5295bf[m add custom blue theme to contribution graph in GitHub component
+[33mf2f9c74[m update GitHub component to adjust contribution graph styling and color scheme
+[33m7fad12e[m add react-github-calendar to display contribution graph in GitHub component
+[33mdfe5a18[m remove unused React import from GitHub component
+[33mdf7c51c[m remove unused React import from About component
+[33maa40eff[m rename project in package-lock.json
+[33m44bab45[m update
