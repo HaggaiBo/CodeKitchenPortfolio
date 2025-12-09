@@ -92,7 +92,6 @@ export function Navbar() {
 
           {/* Mobile menu button */}
           <div className="flex lg:hidden items-center space-x-2">
-            <ThemeToggle isDark={isDark} onToggle={toggleTheme} />
             <button
               onClick={() => setIsOpen(!isOpen)}
               className="p-2 rounded-lg bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
