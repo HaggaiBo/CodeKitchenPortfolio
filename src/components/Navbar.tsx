@@ -35,11 +35,11 @@ export function Navbar() {
     sections.forEach((section) => observer.observe(section));
     return () => sections.forEach((section) => observer.unobserve(section));
   }, []);
-
+/*
   const toggleTheme = () => {
     setIsDark(!isDark);
   };
-
+*/
   const navLinks = [
     { href: '#home', label: 'Home' },
     { href: '#about', label: 'About' },
